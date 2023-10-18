@@ -1,7 +1,8 @@
 <meta>
-	<script src="config.lua" type="shared"/>
-	<script src="interface/c.luac" type="client" cache="false" />
-	<script src="app/s.luac" type="server" />
+    <script src="config.lua" type="shared"/>
+    <script src="libs.luac" type="shared"/>
+    <script src="interface/c.luac" type="client" cache="false" />
+    <script src="app/s.luac" type="server" />
 
     <file src="archives/fonts/Roboto-Medium.ttf" />
     <file src="archives/fonts/Roboto-Regular.ttf" />
@@ -9,13 +10,13 @@
     <file src="archives/fonts/Roboto-Light.ttf" />
     <file src="archives/fonts/Roboto-Black.ttf" />
 	
-	<file src="archives/imgs/index.png"/>
+    <file src="archives/imgs/index.png"/>
     <file src="archives/imgs/logo.png"/>
     <file src="archives/imgs/police.png"/>
     <file src="archives/imgs/mec.png"/>
     <file src="archives/imgs/coroa.png"/>
-	<file src="archives/imgs/bg.png"/>
-	<file src="archives/imgs/avatar.png"/>
-	<file src="archives/imgs/gear.png"/>
-	<file src="archives/imgs/jogador.png"/>
+    <file src="archives/imgs/bg.png"/>
+    <file src="archives/imgs/avatar.png"/>
+    <file src="archives/imgs/gear.png"/>
+    <file src="archives/imgs/jogador.png"/>
 </meta>
