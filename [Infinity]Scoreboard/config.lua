@@ -2,11 +2,11 @@
 
 config = {
     ["Blur"] = true,  -- Deseja utilizar Blur? (true ou false)
-    ['BlurName'] = 'Blur', -- Nome do Resource Blue
+    ['BlurName'] = 'Blur', -- Nome do Resource Blur
     ["Banner"] = {"Everyone", "Everyone", "files/imgs/jogador.png"},
-	['ACLs'] = {
-		{'Everyone', 'jogador'}, -- ACL, Banner
- 	},
+    ['ACLs'] = {
+	         {'Everyone', 'jogador'}, -- ACL, Banner
+	},
     ['ScrollBackground'] = {43, 53, 76}; -- Coloração do background da scrollbar
     ['ScrollColor'] = {81, 125, 179}; -- Coloraçao da Scrollbar
     ['BackgroundColor'] = {52, 60, 90}; -- Coloração da base
