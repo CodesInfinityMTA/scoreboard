@@ -12,9 +12,7 @@ Atualização em Tempo Real: As informações dos jogadores são atualizadas em 
 Como Implementar
 Clone este repositório: git clone https://github.com/CodesInfinityMTA/scoreboard.git
 
-Fork do repositório (https://github.com/CodesInfinityMTA/sistema-scoreboard)
-
-Faça commit das alterações (git commit -am 'Adicione sua funcionalidade
+Fork do repositório (https://github.com/CodesInfinityMTA/scoreboard)
 
 
 Obrigado por usar o Scoreboard! 🏆
